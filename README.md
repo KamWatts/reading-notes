@@ -5,12 +5,12 @@ This file will entail all details covered within the Code 201 course at [Code Fe
 
 Some topics that will be covered are the following:
 
-[^1]1.HTML & CSS
-[^2]2.JavaScript
-[^3]3.Git
-[^4]4.GitHub
-[^5]5.Command Line
-[^6]6.Developer Tools
+*1.HTML & CSS
+*]2.JavaScript
+*3.Git
+*4.GitHub
+*5.Command Line
+*6.Developer Tools
 
 **## Code 301 - Intermediate Software Development**
 
