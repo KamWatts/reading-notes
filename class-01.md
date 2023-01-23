@@ -1,4 +1,6 @@
-# How the Web Works: "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works"
+# How the Web Works: 
+
+"https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works"
   
 _The internet consists of clients and servers. The client (computer) sends requests to the server (web browser) in which the server sends back a response._  
 
