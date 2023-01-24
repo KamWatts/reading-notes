@@ -108,3 +108,33 @@ Functions package funtionality that can be resused. Functions were created to pr
 ## -Events
 
 Real interactivity on a website requires event handlers. Event handlers tells the browser how to respond in the case the user hovers over a certain element, or clicks on something, or scrolls. Event handlers are teh direct line to how the webpage responds to the users interactions with it.
+
+## 1. What is an HTML attribute?
+
+An HTML attribute modifies an HTML element and provides functionality aside from the default setting of said element.
+
+## 2. Anatomy of an HTML document
+
+an HTML document starts with an HTML opening tag that specified the primary language of the doucment. After the html tag comes the meta data nested inside of the head element. This meta data provides the document with a structure for how the information should be composed and interpreted in the client. The title and links to external CSS and script documents can go inside of the header. Note: the title will display in the tab title of a webpage.
+
+After creating the meta data comes the body of the webpage contents. This is the main layout that the user will see. The body contains paragraphs, images, videos, and text.
+
+After the body is closed out, a footer element can be created. Most footer elements have copyright information nested inside or information about the website owner in general.
+
+## 3. Difference between an article and section element tag?
+
+An article tag is used for content that does not need any other context. The content inside of an article tag is independent from the rest of the webpage content. A good example of this would be the suggested videos on Netflix as your sifting through the list of shows in a category. Each movie or series is under its own independent structure that does not correlate with anything else on the screen.
+
+A section tag can be used to split of the different areas of a webpage. This tag can be used to separate the introduction from the paragraphs, and the paragraphs from the contact information.
+
+## 4. What does a typical website include?
+
+A "typical" website will have text, theme colors, images, and a consistent font scheme.
+
+## 5. How does metadata influence Search Engine Optimization?  
+
+Meta data helps a search engine rank a website against other websites. This helps the engine sort through the most imporantant website that a user is looking for, thus improving the optimization of searching for websites most suitable for what someone may be looking for.
+
+## 6. How is the meta HTML tag used when specifying metadata?
+
+The meta tag is used in the header in self-closing bracket element. Meta data includes information about the character set being used, compatible browsers, and device compatibility.
