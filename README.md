@@ -12,8 +12,10 @@ Some topics that will be covered are the following:
 5. Command Line
 6. Developer Tools
 
-**## Code 301 - Intermediate Software Development**
+[class 1]("class-01.md")
 
+**## Code 301 - Intermediate Software Development**
+To be updated
 
 **##Code 401 - Advanced Software Development**
-
+To be updated
