@@ -138,3 +138,9 @@ Meta data helps a search engine rank a website against other websites. This help
 ## 6. How is the meta HTML tag used when specifying metadata?
 
 The meta tag is used in the header in self-closing bracket element. Meta data includes information about the character set being used, compatible browsers, and device compatibility.
+
+## Things I want to know more about
+
+- The flexibility of meta data and more ways it can be used
+- Most common use cases for section and article tags
+- Most efficient and high quality method to design a page layout prior to coding it
