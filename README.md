@@ -1,5 +1,6 @@
 # reading-notes
-**## Code 201 - Foundations of Software Development**
+
+## **Code 201 - Foundations of Software Development**
 
 This file will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). This file will touch on the foundations needed to be successful in JavaScript for computer programming.
 
@@ -12,7 +13,7 @@ Some topics that will be covered are the following:
 5. Command Line
 6. Developer Tools
 
-[class 1]("class-01.md")
+[class 1](class-01.md)
 
 **## Code 301 - Intermediate Software Development**
 To be updated
