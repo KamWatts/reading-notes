@@ -14,6 +14,7 @@ Some topics that will be covered are the following:
 6. Developer Tools
 
 [class 1](class-01.md)
+[class 2](class-02.md)
 
 **## Code 301 - Intermediate Software Development**
 To be updated
