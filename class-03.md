@@ -86,3 +86,7 @@ The result of the last expression will be `10dog` being that the false and true 
 ### When are loops useful?
 
 - Loops are useful when a code needs to be repeated over and over again without needing to type the code out multiple times for the function to execute.
+
+### Things I want to know more about
+
+-How to use regular expressions in my functions
