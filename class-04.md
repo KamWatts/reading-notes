@@ -24,6 +24,24 @@
 
 * Only positioned relative to the offset parent.
 
-  5. The key difference between absolute and relative positioning: 
+  5. The key difference between absolute and fixed positioning: 
 
-  - 
+  - Absolute positioning will adjust in respect to its parent element. If no parent is present then the element will use the document body as the parent.
+
+  - Fixed positioning will cause the element to stay in the same place even if the page is scrolled.
+  [Geeks for Geeks](https://www.geeksforgeeks.org/difference-between-relative-and-absolute-position-in-css/)
+
+
+  ## Learn JS
+
+  - `Declaration` is when you start the creation of a variable in a function.
+
+  - `invocation` is when a piece of code is when a code's vaule is retrieved by calling the function name.
+
+## Benefits of Pair Programming
+
+### Code Quality Improvement
+
+  - Pairing with a second coder to implement code can increase the quality of the output. With constructive feedback and a second set of eyes to see what is going on with your code - this can have a very positive effect on the readability and functionality.
+
+  - Pair programming can also improve the workflow of the project. Implementing teamwork - with each contributor having a specific task to handle, this type of delegation ensures that one person is not taking on too many overwhelming tasks at once. This is also a great opportunity to improve your communication skills!
