@@ -17,6 +17,7 @@ Some topics that will be covered are the following:
 * [class 2](class-02.md)
 * [class 3](class-03.md)
 * [class 4](class-04.md)
+* [class 5](class-05.md)
 
 **## Code 301 - Intermediate Software Development**
 
