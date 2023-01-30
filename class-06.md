@@ -6,9 +6,9 @@
 
 2. Advantages of creating object literals is that it makes the code easier to read, and ensures an easier way to identify each item by name.
 
-4. Objects differ from arrays in a sense that objects represent physical things and arrays represent data structures that are stored in a collection. Arrays are mutable and can be modified at any index of the array.
+3. Objects differ from arrays in a sense that objects represent physical things and arrays represent data structures that are stored in a collection. Arrays are mutable and can be modified at any index of the array.
 
-5. `this` refers to the variable of the object. The advantage of using `this` is that it instantly clarifies that the code intends to target the specific object it resides inside of.
+4. `this` refers to the variable of the object. The advantage of using `this` is that it instantly clarifies that the code intends to target the specific object it resides inside of.
 
 ## Intro to the DOM
 

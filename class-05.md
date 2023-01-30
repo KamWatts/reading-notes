@@ -9,9 +9,12 @@ Also, some browsers are text-only and do not display images, thus making the `<a
 
 3. The `<figure>` tag are used for content with self-containing information. The `<figure>` tag does not disrupt the main flow of the rest of the content on the page because it is linked in with the main flow of the page.
 
-4. The difference between a GIF and an SVG is that a GIF is an animated photograph or video content in a compressed format. An SVG is drawn out with code by calling drawing commands.
+4. The difference between a GIF and an SVG is that a GIF is an animated photograph or video content in a compressed format. An SVG is drawn out with code by calling drawing commands. A GIF is pixel base and an SVG is vector-based.
 
 5. The image type I would use to display an image on my website the PNG file type. A PNG file is compressed with more reproduction - meaning that the quality does not diminish and is more transparent in any browser that supports its file type. This will also improve the loading speed of images on the webpage as a result of a smaller file size.
+_jpeg = not as high quality as png file. png = better quality than jpeg. svg = best quality for logos an icons._
+
+Always optimize image file sizes for the web. Do not make your user download huge files.
 
 ## Learn CSS
 
