@@ -42,4 +42,4 @@
 
 ## Things I want to know more about
 
-I would like to know more about contructing the second parameter of Event Listeners.
+I would like to know more about contructing the second parameter of Event Listeners
