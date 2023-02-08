@@ -20,12 +20,12 @@ Some topics that will be covered are the following:
 * [class 5](class-05.md)
 * [class 6](class-06.md)
 * [class 7](class-07.md)
-*[class 8](class-08.md)
-*[class 9](class-09.md)
-*[class 10](class-10.md)
-*[class 11](class-11.md)
-*[class 12](class-12.md)
-*[class 13](class-13.md)
+* [class 8](class-08.md)
+* [class 9](class-09.md)
+* [class 10](class-10.md)
+* [class 11](class-11.md)
+* [class 12](class-12.md)
+* [class 13](class-13.md)
 
 **## Code 301 - Intermediate Software Development**
 
