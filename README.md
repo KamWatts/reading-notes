@@ -12,6 +12,7 @@ Some topics that will be covered are the following:
 4. GitHub
 5. Command Line
 6. Developer Tools
+7. Chart.js
 
 * [class 1](class-01.md)
 * [class 2](class-02.md)
