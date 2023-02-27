@@ -30,7 +30,7 @@ Some topics that will be covered are the following:
 
 **## Code 301 - Intermediate Software Development**
 
-* To be updated
+* [Class 1](./301%20notes/class01.md)
 
 **##Code 401 - Advanced Software Development**
 
