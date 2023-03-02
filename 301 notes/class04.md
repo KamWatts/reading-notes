@@ -1,4 +1,4 @@
-# Readt and Forms
+# Read and Forms
 
 ## React Docs - Forms
 

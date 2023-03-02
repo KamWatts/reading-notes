@@ -31,6 +31,9 @@ Some topics that will be covered are the following:
 **## Code 301 - Intermediate Software Development**
 
 * [Class 1](./301%20notes/class01.md)
+* [Class 2](./301%20notes/class02.md)
+* [Class 3](./301%20notes/class03.md)
+* [Class 4](./301%20notes/class04.md)
 
 **##Code 401 - Advanced Software Development**
 
