@@ -31,3 +31,19 @@ How can you identify where state needs to live?
 - Either the common owner of another component higher up in the heirarchy should own the state.
 
 - If you can't find a component where it makes sense to own the state. create a new component solely for holding the state and add it somewher ein the heirarchy above the common owner component.
+
+## Higher-order Functions
+
+1. What is a higher-order function?
+
+- These are functions that operate on other functions, either by taking them as arguments or by returning them.
+
+2. Explore the `greaterThan` function as defined in the [reading](https://webcache.googleusercontent.com/search?q=cache:tCw29Dck1IEJ:https://eloquentjavascript.net/05_higher_order.html&cd=10&hl=en&ct=clnk&gl=us). What is line 2 of this function doing?
+
+- In line 2 it's gonna return a number(m) only if the number is greater than another value(n).
+
+3. Explain how `map` or `reduce` operates, with regard to higher-order functions.
+
+- `map` is a function that takes in another function to return a new array of data.
+
+- `reduce` is a function that takes in a another function, declared with a variable that represents an initial value. You can then iterate of an array that returns the new values to the variable.
