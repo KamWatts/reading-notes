@@ -38,7 +38,7 @@ Some topics that will be covered are the following:
 * [Class 6](./301%20notes/class06.md)
 * [Class 7](./301%20notes/class07.md)
 * [Class 8](./301%20notes/class08.md)
-
+* [Class 9](./301%20notes/class09.md)
 **##Code 401 - Advanced Software Development**
 
 * To be updated
