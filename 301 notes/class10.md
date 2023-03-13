@@ -22,12 +22,11 @@ function secondFunction() {
 function thirdFunction(){
   secondFunction();
 }
-thidFunction();
+thirdFunction();
 
 5. What causes a Stack Overflow?
 
 A stack overflow happens when there is a recursive function that calls itself without an exit point.
-
 ## JavaScript Error Messages
 
 1. What is a `reference error`?
