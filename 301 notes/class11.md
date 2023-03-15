@@ -56,7 +56,7 @@ A representation of a plan or theory in the form of an outline or model
 
 What is a NoSQL database?
 
-It's a non-tabular database. 
+It's a non-tabular database.
 
 How does it work?
 
@@ -66,7 +66,7 @@ What is inside of a MongoDB database?
 
 BSON documents. Which are collections, gathered together to store documents.
 
-Whichi s more flexible - SQL or MongoDB?
+Which is more flexible - SQL or MongoDB?
 
 MonogoDB. Because it ensures high and diverse data availability. Also ensures better reliability with transactions.
 
