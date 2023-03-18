@@ -14,19 +14,20 @@ Some topics that will be covered are the following:
 6. Developer Tools
 7. Chart.js
 
-* [class 1](class-01.md)
-* [class 2](class-02.md)
-* [class 3](class-03.md)
-* [class 4](class-04.md)
-* [class 5](class-05.md)
-* [class 6](class-06.md)
-* [class 7](class-07.md)
-* [class 8](class-08.md)
-* [class 9](class-09.md)
-* [class 10](class-10.md)
-* [class 11](class-11.md)
-* [class 12](class-12.md)
-* [class 13](class-13.md)
+* [class 1](./201%20notes/class-01.md)
+* [class 2](./201%20notes/class-02.md)
+* [class 3](./201%20notes/class-03.md)
+* [class 4](./201%20notes/class-04.md)
+* [class 5](./201%20notes/class-05.md)
+* [class 6](./201%20notes/class-06.md)
+* [class 7](./201%20notes/class-07.md)
+* [class 8](./201%20notes/class-08.md)
+* [class 9](./201%20notes/class-09.md)
+* [class 10](./201%20notes/class-10.md)
+* [class 11](./201%20notes/class-11.md)
+* [class 12](./201%20notes/class-12.md)
+* [class 13](./201%20notes/class-13.md)
+
 
 **## Code 301 - Intermediate Software Development**
 
@@ -43,7 +44,7 @@ Some topics that will be covered are the following:
 * [Class 11](./301%20notes/class11.md)
 * [Class 12](./301%20notes/class12.md)
 * [Class 13](./301%20notes/class13.md)
-
+* [Class 15](./301%20notes/class15.md)
 **##Code 401 - Advanced Software Development**
 
 * To be updated
