@@ -1,8 +1,6 @@
-# reading-notes
+# Coding Notes from Bootcamp
 
-## **Code 201 - Foundations of Software Development**
-
-This file will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). This file will touch on the foundations needed to be successful in JavaScript for computer programming.
+This file will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). This repository will touch on the foundations needed to be successful in JavaScript for computer programming. Please feel free to use my notes to aid in your programming education as well. If there is anything in my notes that you want more clarification on, hit the follow and send me a message on here, [LinkedIn](https://www.linkedin.com/in/kameron-watts1/) or [Instagram](https://www.instagram.com/kamthecoder/).
 
 Some topics that will be covered are the following:
 
@@ -13,6 +11,16 @@ Some topics that will be covered are the following:
 5. Command Line
 6. Developer Tools
 7. Chart.js
+8. React.js
+9. auth0
+10. Caching
+11. CRUD and RESTful APIs
+12. MongoDB
+13. Web Request Response Cycles and more...
+
+---
+## **Code 201 - Foundations of Software Development**
+
 
 * [class 1](./201%20notes/class-01.md)
 * [class 2](./201%20notes/class-02.md)
@@ -28,6 +36,7 @@ Some topics that will be covered are the following:
 * [class 12](./201%20notes/class-12.md)
 * [class 13](./201%20notes/class-13.md)
 
+---
 
 **## Code 301 - Intermediate Software Development**
 
@@ -45,6 +54,9 @@ Some topics that will be covered are the following:
 * [Class 12](./301%20notes/class12.md)
 * [Class 13](./301%20notes/class13.md)
 * [Class 15](./301%20notes/class15.md)
-**##Code 401 - Advanced Software Development**
+
+---
+
+* **##Code 401 - Advanced Software Development**
 
 * To be updated
