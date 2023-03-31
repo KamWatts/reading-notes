@@ -1,6 +1,6 @@
 # Coding Notes from Bootcamp
 
-This file will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). This repository will touch on the foundations needed to be successful in JavaScript for computer programming. Please feel free to use my notes to aid in your programming education as well. If there is anything in my notes that you want more clarification on, hit the follow and send me a message on here, [LinkedIn](https://www.linkedin.com/in/kameron-watts1/) or [Instagram](https://www.instagram.com/kamthecoder/).
+This repository  will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). We will also touch on the foundations needed to be successful in computer programming using JavaScript. Please feel free to use my notes to aid in your programming education as well. If there is anything in my notes that you want more clarification on, hit the follow button and send me a message on here, [LinkedIn](https://www.linkedin.com/in/kameron-watts1/) or [Instagram](https://www.instagram.com/kamthecoder/). 
 
 Some topics that will be covered are the following:
 
