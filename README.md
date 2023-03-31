@@ -1,6 +1,6 @@
 # Coding Notes from Bootcamp
 
-This repository  will entail all details covered within the Code 201 course at [Code Fellows](https://www.codefellows.org/). We will also touch on the foundations needed to be successful in computer programming using JavaScript. Please feel free to use my notes to aid in your programming education as well. If there is anything in my notes that you want more clarification on, hit the follow button and send me a message on here, [LinkedIn](https://www.linkedin.com/in/kameron-watts1/) or [Instagram](https://www.instagram.com/kamthecoder/). 
+This repository  will entail all details covered within the Full Stack JavaScript curriculum at [Code Fellows](https://www.codefellows.org/) in Seattle! We will also touch on the foundations needed to be successful in computer programming using JavaScript. Please feel free to use my notes to aid in your programming education as well. If there is anything in my notes that you want more clarification on, hit the follow button and send me a message on here, [LinkedIn](https://www.linkedin.com/in/kameron-watts1/) or [Instagram](https://www.instagram.com/kamthecoder/).
 
 Some topics that will be covered are the following:
 
@@ -12,15 +12,16 @@ Some topics that will be covered are the following:
 6. Developer Tools
 7. Chart.js
 8. React.js
-9. auth0
-10. Caching
-11. CRUD and RESTful APIs
-12. MongoDB
-13. Web Request Response Cycles and more...
+9. Node.js
+10. auth0
+11. Caching
+12. CRUD and RESTful APIs
+13. MongoDB
+14. Web Request Response Cycles and more...
 
 ---
-## **Code 201 - Foundations of Software Development**
 
+## **Code 201 - Foundations of Software Development**
 
 * [class 1](./201%20notes/class-01.md)
 * [class 2](./201%20notes/class-02.md)
