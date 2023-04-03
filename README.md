@@ -60,4 +60,12 @@ Some topics that will be covered are the following:
 
 * **##Code 401 - Advanced Software Development**
 
-* To be updated
+* [Growth Mindset](./401%20notes/growthmindset.md)
+* [Engineering](./401%20notes/engineering.md)
+* [The Terminal](./401%20notes/theterminal.md)
+* [SQL](./401%20notes/understandingSQL.md)
+* [Data Structures and Algorithms](./401%20notes/datastructures.md)
+
+---
+
+* [Class 1](./401%20notes/class001.md)

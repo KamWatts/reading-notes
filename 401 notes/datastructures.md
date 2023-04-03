@@ -41,4 +41,3 @@ What is `graphs` and `trees`?
     - Complicated networks like social media platforms use graphical data structures.
     - Binary search trees - full of nodes that have no more than two children descending from them.
     - BST is not a perfect data structure and can become un-balanced.
-
