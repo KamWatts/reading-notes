@@ -14,4 +14,35 @@ I am looking forward to getting exposed to more complex data structures and ways
 
 ## 4. What are my learning goals?
 
-To not fall behind during this course and prioritize what I study in order to submit lab assignments in a timely manner. I want to have a disciplined schedule for the amount of time I spend on coding challenges and submitting completed labs with high quality code. I want to continue to challenge myself and grow as a developer and be comfortable in a fast-paced environment that mimics the demands of an actual software development role. being exposed to this kind of pressure and high expectation will better prepare me for the future and whats to come. 
+To not fall behind during this course and prioritize what I study in order to submit lab assignments in a timely manner. I want to have a disciplined schedule for the amount of time I spend on coding challenges and submitting completed labs with high quality code. I want to continue to challenge myself and grow as a developer and be comfortable in a fast-paced environment that mimics the demands of an actual software development role. being exposed to this kind of pressure and high expectation will better prepare me for the future and whats to come.
+
+---
+
+## Beyond the Reading: In-class notes
+
+### Our Environments
+
+- Node, Jest, CI/CD
+
+### Where does our code run?
+
+In 201: Code ran in the browser.
+In 301: Code ran in Node (runtime) then the Browser from React - Also known as compiling
+In 401: Same as the above mentioned + Jest...
+
+    - Jest is a test environment. Jest checks to see if a code is doing the job it's supposed to be doing prior to the code executing its condition.
+
+    - A runtime is a place where code "runs"... Meaning that the code is executing and the result of the output is rendered.
+
+## Testing
+
+    - Requires knowledge of an end-goal
+
+Node: String => function Capitalize => Same String but all caps [Capitalize code](./capitalize/capitalize.js) and [test](./capitalize/capitalize.test.js)
+
+Jest: Gives access to a function called 'expect' which is a function for asserting values
+
+Node is **Development** => Jest is **testing** (GitHub Actions )=> Render is **production** (Cloud computer)
+
+Continuous Integration/Continuous Delivery
+
