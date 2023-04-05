@@ -69,3 +69,5 @@ Some topics that will be covered are the following:
 ---
 
 * [Class 1](./401%20notes/class001.md)
+* [Class 2](./401%20notes/class002.md)
+* [Class 3](./401%20notes/class003.md)
