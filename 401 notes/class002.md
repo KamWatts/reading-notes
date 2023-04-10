@@ -49,3 +49,6 @@ Continuous Delivery vs. Continuous Deployment:
 Both phases of CI and CD are automated. The difference is that Continuous Delivery is the automation of releases to staging and Continous Deployment is the automation of the release to production.
 
 GitHub serves as an amazing tool in the CI/CD pipeline. There are many toold on GitHub that creates effective ways to troubleshoot and communicate your way through a codebase to ensure quality integrations to production. GitHub has measures in place to resolve issues, add commentary, and keep track of your updates in case you have to roll back a previous version due to a mistake that could have been pushed up to production. GitHub is an amazing safe-fail system to aid in the development process.
+
+--- 
+
