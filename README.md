@@ -75,3 +75,4 @@ Some topics that will be covered are the following:
 * [Class 5](./401%20notes/class005.md)
 * [Class 6](./401%20notes/class006.md)
 * [Class 7](./401%20notes/class007.md)
+* [Class 8](./401%20notes/class008.md)
