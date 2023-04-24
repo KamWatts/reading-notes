@@ -76,3 +76,5 @@ Some topics that will be covered are the following:
 * [Class 6](./401%20notes/class006.md)
 * [Class 7](./401%20notes/class007.md)
 * [Class 8](./401%20notes/class008.md)
+* [Class 11](./401%20notes/class11.md)
+* [Class 12](./401%20notes/class12.md)
