@@ -78,3 +78,8 @@ Some topics that will be covered are the following:
 * [Class 8](./401%20notes/class008.md)
 * [Class 11](./401%20notes/class11.md)
 * [Class 12](./401%20notes/class12.md)
+* [Class 13](./401%20notes/class13.md)
+* [Class 16](./401%20notes/class16.md)
+* [Class 17](./401%20notes/class17.md)
+* [Class 18](./401%20notes/class18.md)
+* [Class 19](./401%20notes/class19.md)
