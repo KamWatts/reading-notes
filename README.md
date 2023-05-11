@@ -86,3 +86,4 @@ Some topics that will be covered are the following:
 * [Class 26](./401%20notes/class26.md)
 * [Class 27](./401%20notes/class27.md)
 * [Class 28](./401%20notes/class28.md)
+* [Class 29](./401%20notes/class29.md)
