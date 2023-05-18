@@ -87,3 +87,8 @@ Some topics that will be covered are the following:
 * [Class 27](./401%20notes/class27.md)
 * [Class 28](./401%20notes/class28.md)
 * [Class 29](./401%20notes/class29.md)
+* [Class 30](./401%20notes/class30.md)
+* [Class 31](./401%20notes/class31.md)
+* [Class 32](./401%20notes/class32.md)
+* [Class 33](./401%20notes/class33.md)
+* [Class 34](./401%20notes/class34.md)
