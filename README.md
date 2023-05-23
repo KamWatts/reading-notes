@@ -93,3 +93,4 @@ Some topics that will be covered are the following:
 * [Class 33](./401%20notes/class33.md)
 * [Class 34](./401%20notes/class34.md)
 * [Class 36](./401%20notes/class36.md)
+* [Class 37](./401%20notes/class37.md)
